@@ -30,6 +30,7 @@ public class Main {
 
         System.out.println("Factorielle int de 25 = "
                 + fact.intFactorielle(25));
+        System.out.print("test de github");
     }
 
 }
